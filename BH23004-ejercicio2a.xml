@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="carnet-ejercicio2a.css"?>
-<!-- carnet-ejercicio2a.xml BH23004 -->
+<?xml-stylesheet type="text/css" href="BH23004-ejercicio2a.css"?>
 <pais nombre="El Salvador" moneda="USD" codtel="+503" idiomas="Español,Náhuat,Inglés" area="21041 km2">
   <departamento id="1" nombre="San Salvador">
     <cabecera>San Salvador</cabecera>
