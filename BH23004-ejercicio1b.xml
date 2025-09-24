@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="carnet-ejercicio1b.css"?>
+<!-- carnet-ejercicio1b.xml BH23004 -->
+<fichero>
+  <ficha id="1" fechaingreso="01/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <ficha id="2" fechaingreso="23/05/2020">
+    <nombre>Fredi Barraza</nombre>
+    <apellido>TPI-115</apellido>
+    <telefono>7777-8888</telefono>
+    <email>fredi@example.com</email>
+    <website>https://fredi.dev</website>
+  </ficha>
+  <ficha id="3" fechaingreso="15/01/2021" dui="01234567-8" isss="987654321" afp="A12345">
+    <nombre>Maria</nombre>
+    <apellido>Lopez</apellido>
+    <telefono>6666-9999</telefono>
+    <email>maria@example.com</email>
+    <website>https://maria.com</website>
+  </ficha>
+</fichero>

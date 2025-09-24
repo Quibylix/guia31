@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="carnet-ejercicio2a.css"?>
+<!-- carnet-ejercicio2a.xml BH23004 -->
+<pais nombre="El Salvador" moneda="USD" codtel="+503" idiomas="Español,Náhuat,Inglés" area="21041 km2">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1700000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id="2" nombre="La Libertad">
+    <cabecera>Santa Tecla</cabecera>
+    <habitantes>660000</habitantes>
+    <altura>893 MSNM</altura>
+  </departamento>
+</pais>

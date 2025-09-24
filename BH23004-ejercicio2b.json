@@ -1,0 +1,30 @@
+{
+  "pais": {
+    "nombre": "El Salvador",
+    "moneda": "USD",
+    "departamento": [
+      {
+        "id": "1",
+        "nombre": "San Salvador",
+        "cabecera": "San Salvador",
+        "habitantes": "1700000",
+        "altura": "545 MSNM"
+      },
+      {
+        "id": "2",
+        "nombre": "La Libertad",
+        "cabecera": "Santa Tecla",
+        "habitantes": "660000",
+        "altura": "893 MSNM"
+      },
+      {
+        "id": "3",
+        "nombre": "Santa Ana",
+        "cabecera": "Santa Ana",
+        "habitantes": "523000",
+        "altura": "665 MSNM"
+      }
+    ]
+  }
+}
+

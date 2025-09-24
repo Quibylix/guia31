@@ -1,0 +1,19 @@
+ficha {
+  background-color: #def;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+}
+nombre {
+  color: purple;
+}
+apellido {
+  color: brown;
+}
+telefono,
+email,
+website {
+  display: block;
+  font-style: italic;
+}
+

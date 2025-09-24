@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="carnet-ejemplo1.css"?>
+<!-- carnet-ejemplo1.xml BH23004 -->
+<fichero>
+  <ficha id="1" fechaingreso="01/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+</fichero>

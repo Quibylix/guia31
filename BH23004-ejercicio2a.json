@@ -1,0 +1,26 @@
+{
+  "pais": {
+    "nombre": "El Salvador",
+    "moneda": "USD",
+    "codtel": "+503",
+    "idiomas": "Español,Náhuat,Inglés",
+    "area": "21041 km2",
+    "departamento": [
+      {
+        "id": "1",
+        "nombre": "San Salvador",
+        "cabecera": "San Salvador",
+        "habitantes": "1700000",
+        "altura": "545 MSNM"
+      },
+      {
+        "id": "2",
+        "nombre": "La Libertad",
+        "cabecera": "Santa Tecla",
+        "habitantes": "660000",
+        "altura": "893 MSNM"
+      }
+    ]
+  }
+}
+

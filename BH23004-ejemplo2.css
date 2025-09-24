@@ -1,0 +1,21 @@
+pais {
+  background: #eef;
+  display: block;
+  padding: 10px;
+}
+departamento {
+  background: #cfc;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+}
+cabecera {
+  font-weight: bold;
+}
+habitantes {
+  color: blue;
+}
+altura {
+  color: darkgreen;
+}
+

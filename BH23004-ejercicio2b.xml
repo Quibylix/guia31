@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="carnet-ejercicio2b.css"?>
+<!-- carnet-ejercicio2b.xml BH23004 -->
+<pais nombre="El Salvador" moneda="USD">
+  <departamento id="1" nombre="San Salvador" cabecera="San Salvador" habitantes="1700000" altura="545 MSNM"/>
+  <departamento id="2" nombre="La Libertad" cabecera="Santa Tecla" habitantes="660000" altura="893 MSNM"/>
+  <departamento id="3" nombre="Santa Ana" cabecera="Santa Ana" habitantes="523000" altura="665 MSNM"/>
+</pais>

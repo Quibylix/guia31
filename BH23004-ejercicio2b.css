@@ -1,0 +1,18 @@
+pais {
+  background: #ffe;
+  display: block;
+  padding: 10px;
+}
+departamento {
+  background: #ffd;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid orange;
+}
+departamento::after {
+  content: attr(cabecera) " (" attr(habitantes) ")";
+  display: block;
+  color: gray;
+}
+
